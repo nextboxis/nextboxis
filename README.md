@@ -1,7 +1,5 @@
 <div align="center">
-  <a href="https://github.com/hurtki/github-banners">
-    <img src="https://api.bnrs.dev/banners/nextboxis-dark?a=1ydz8j" alt="Banner" width="100%" />
-  </a>
+  <img src="github-header-banner.png" alt="Header Banner" width="100%" />
 </div>
 
 <!-- CORE SYSTEM INITIALIZED -->
@@ -100,6 +98,10 @@ giridharan@root:~$ cat /etc/host_info.json
   STATUS: [DEPLOYED]
   DESCRIPTION: AI-Backed Threat Intel & Phishing Detection (FastAPI stack)
 
++ 🛡️ PROJECT: DNS-Sinkhole
+  STATUS: [DEPLOYED]
+  DESCRIPTION: High-Performance DNS Sinkhole & Threat Dashboard
+
 + 🐛 OPERATION: TryHackMe
   STATUS: [ACTIVE]
   METRIC: Global Rank Top 260k+ | 8 Badges | 40+ Conquered Rooms
@@ -186,6 +188,7 @@ giridharan@root:~$ cat /etc/host_info.json
     "Defrosted Five",
     "Security Engineering", 
     "Web Fundamentals", 
+    "World Wide Web",
     "Bronze League [Top 20%]"
   ],
   "Status": "Continuous Intel Gathering..."
