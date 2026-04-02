@@ -206,7 +206,6 @@ giridharan@root:~$ cat /etc/host_info.json
 ```yaml
 HANDSHAKE VECTORS:
   > 📧 SMTP: giridharank790@gmail.com
-  > 📞 COMM: +91 790 423 9322
   > 📍 COOR: Erode, Tamil Nadu, IN
 ```
 
