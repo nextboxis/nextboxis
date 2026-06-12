@@ -15,13 +15,15 @@
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a><a href="mailto:giridharank790@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><a href="https://github.com/nextboxis">
+</a><a href="https://github.com/giridharank790-eng">
 <img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="giridharan.pdf">
+<img src="https://img.shields.io/badge/Resume-View%20PDF-8B5CF6?style=for-the-badge&logo=googledocs&logoColor=white"/>
 </a><br/><br/>
 
-https://komarev.com/ghpvc/?username=nextboxis&style=for-the-badge&color=7C3AED
-https://img.shields.io/github/followers/nextboxis?style=for-the-badge&color=6366F1
-https://img.shields.io/github/stars/nextboxis?style=for-the-badge&color=A855F7
+https://komarev.com/ghpvc/?username=giridharank790-eng&style=for-the-badge&color=7C3AED
+https://img.shields.io/github/followers/giridharank790-eng?style=for-the-badge&color=6366F1
+https://img.shields.io/github/stars/giridharank790-eng?style=for-the-badge&color=A855F7
 
 </div>---
 
@@ -90,7 +92,7 @@ Scale| Multi-host vulnerability assessment
 Performance| Optimized CVE caching reducing API calls by ~80%
 Security| MITRE ATT&CK Mapping, Threat Intelligence Integration
 Impact| Accelerated threat identification and prioritization
-Repository| https://github.com/nextboxis/NexShield
+Repository| https://github.com/giridharank790-eng/NexShield
 
 Engineering Highlights
 
@@ -113,7 +115,7 @@ Scale| Real-time packet analysis pipeline
 Performance| High-speed DNS inspection engine
 Security| DGA Detection, DNS Tunneling Detection
 Impact| Enhanced network visibility and threat response
-Repository| https://github.com/nextboxis/DNS-Sinkhole
+Repository| https://github.com/giridharank790-eng/DNS-Sinkhole
 
 Engineering Highlights
 
@@ -256,21 +258,48 @@ Coding Profiles
 <img src="https://img.shields.io/badge/CodeChef-Programming-5B4638?style=for-the-badge&logo=codechef"/>
 </a></div>---
 
-GitHub Analytics
+GitHub Analytics & Metrics
 
-<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nextboxis&show_icons=true&theme=tokyonight&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextboxis&layout=compact&theme=tokyonight&hide_border=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=nextboxis&theme=tokyonight&hide_border=true"/></div>---
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giridharank790-eng&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giridharank790-eng&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giridharank790-eng&theme=tokyonight&hide_border=true&border_radius=10"/>
+</div>
+
+---
 
 GitHub Trophies
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=nextboxis&theme=algolia&no-frame=true&row=2&column=4"/></div>---
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=giridharank790-eng&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15"/>
+</div>
 
-Contribution Activity
+---
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=nextboxis&theme=react-dark&hide_border=true"/></div>---
+Contribution Heatmap & Activity Graph
 
-Contribution Snake
+<div align="center">
+  <img src="https://ghchart.rshah.org/8B5CF6/giridharank790-eng" alt="giridharank790-eng's Github Contribution Chart" width="800" />
+</div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/></div>---
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giridharank790-eng&theme=tokyo-night&hide_border=true&radius=10" width="800" />
+</div>
+
+---
+
+Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giridharank790-eng&theme=tokyonight" width="800" />
+</div>---
 
 Current Focus
 
@@ -306,8 +335,8 @@ Connect
 <img src="https://img.shields.io/badge/Gmail-giridharank790%40gmail.com-A855F7?style=for-the-badge&logo=gmail"/>
 </a><a href="https://linkedin.com/in/giridharan-k1315">
 <img src="https://img.shields.io/badge/LinkedIn-Giridharan%20K-6366F1?style=for-the-badge&logo=linkedin"/>
-</a><a href="https://github.com/nextboxis">
-<img src="https://img.shields.io/badge/GitHub-nextboxis-4F46E5?style=for-the-badge&logo=github"/>
+</a><a href="https://github.com/giridharank790-eng">
+<img src="https://img.shields.io/badge/GitHub-giridharank790-eng-4F46E5?style=for-the-badge&logo=github"/>
 </a><a href="https://giridharank.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=google-chrome"/>
 </a></div>---
