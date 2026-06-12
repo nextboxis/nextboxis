@@ -91,6 +91,29 @@ I am a passionate **Front-End Developer** and **Cybersecurity Enthusiast** based
 
 </details>
 
+<details open>
+<summary><b>💻 E-hacker — Ethical Hacking Tracker Dashboard</b></summary>
+<br>
+
+*Tech Stack: Frontend web technologies*
+- Developed a modern, responsive dashboard to track and visualize learning journeys in ethical hacking.
+- Designed modules to manage wargame progress and seamlessly organize essential cybersecurity resources.
+- Focused on delivering an intuitive UI/UX for cybersecurity students and researchers.
+- **[View on GitHub](https://github.com/nextboxis/E-hacker)**
+
+</details>
+
+<details open>
+<summary><b>🐧 BlackArch Linux Platform</b></summary>
+<br>
+
+*Tech Stack: Arch Linux, Security Tools*
+- Maintained an ArchLinux-based distribution tailored for penetration testers and security researchers.
+- Curated an extensive toolkit of offensive security utilities for streamlined ethical hacking workflows.
+- **[View on GitHub](https://github.com/nextboxis/blackarch)**
+
+</details>
+
 ---
 
 ### 💼 Experience & Virtual Simulations
