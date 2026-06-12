@@ -1,170 +1,317 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=250&section=header&text=GIRIDHARAN%20K&fontSize=70&fontColor=FFFFFF&animation=fadeIn" alt="Header Banner" />
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Application+Security+Analyst;Cybersecurity+Practitioner;Full-Stack+Python+Developer" alt="Typing Animation" />
-</div>
-<div align="center">
-[![B.Sc. Computer Science](https://img.shields.io/badge/Academic-B.Sc.%20Computer%20Science-7C3AED?style=flat-square&logo=read-the-docs&logoColor=white)](https://giridharank.netlify.app)
-[![Location](https://img.shields.io/badge/Location-Salem%2C%20Tamil%20Nadu%2C%20India-4C1D95?style=flat-square&logo=google-maps&logoColor=white)](https://giridharank.netlify.app)
-[![Portfolio](https://img.shields.io/badge/Portfolio-giridharank.netlify.app-6D28D9?style=for-the-badge&logo=firefox&logoColor=white)](https://giridharank.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/giridharan-k1315)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giridharank790@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nextboxis)
-</div>
-<div align="center">
-![Profile Views](https://komarev.com/normal-badge/?username=nextboxis&color=7C3AED&style=flat-square&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/nextboxis?color=6D28D9&style=flat-square)
-![Stars](https://img.shields.io/github/stars/nextboxis?color=4C1D95&style=flat-square)
-</div>
----
-## 2. About Section
-Driven Application Security Analyst and Software Engineer with a comprehensive foundation in threat analysis, defensive security, and real-time product engineering. Equipped with an algorithmic problem-solving mindset, I blend secure coding paradigms with modern development frameworks to architect highly resilient applications.
-* **Software Engineering:** Proficient in designing scalable full-stack architectures, implementing multi-protocol event-driven systems, and building production-ready RESTful APIs.
-* **AI/ML Expertise:** Skilled in integrating machine learning classifiers into security workflows, modeling predictive threat scores, and orchestrating intelligent caching to optimize high-throughput analytics pipelines.
-* **Full Stack Development:** Experienced in building responsive user interfaces tied seamlessly to structured and unstructured backend datastores with automated CI/CD and containerization.
-* **Product Engineering Mindset:** Focused on mitigating application vulnerabilities (OWASP Top 10) early in the SDLC while ensuring robust performance, system availability, and high scannability.
-### 🎯 Open To
-* Entry-level Application Security Analyst roles
-* Junior Cyber Security Engineer positions
-* Product Security and DevSecOps engineering tracks
-* Collaborative Open Source security initiatives
----
-## 3. Tech Stack Section
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" alt="Languages" />
-</p>
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,bootstrap" alt="Frontend" />
-</p>
-### ⚙️ Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,mongodb" alt="Backend and DB" />
-</p>
-### 🛠️ Cloud, DevOps & Tooling
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode" alt="DevOps and Tools" />
-</p>
----
-## 4. AI / ML Expertise Section
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:A855F7&text=Giridharan%20K&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%7C%20Cybersecurity%20%7C%20AI%20Engineer&descAlignY=58" width="100%"/>
 
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Supervised Learning** | Intermediate | Developing Random Forest classification models for predictive security profiling and multi-vector threat severity grading. |
-| **Statistical Analysis** | Advanced | Engineering Shannon Entropy evaluation layers to parse and isolate runtime Domain Generation Algorithms (DGA). |
-| **Intelligent Data Pipelines** | Advanced | Constructing automated pipeline ingestion frameworks using the NVD CVE API with multi-tier database caching modules. |
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=1000&lines=Software+Engineer;Cybersecurity+Engineer;AI+%2F+ML+Practitioner;Full+Stack+Developer;Building+Scalable+Secure+Systems" alt="Typing SVG" /><br/>"BSc Computer Science" (https://img.shields.io/badge/B.Sc-Computer%20Science%20%26%20Applications-7C3AED?style=for-the-badge)
+"Cybersecurity" (https://img.shields.io/badge/Cybersecurity-Practitioner-6366F1?style=for-the-badge)
+"AI ML" (https://img.shields.io/badge/AI%2FML-Engineer-A855F7?style=for-the-badge)
+"Open Source" (https://img.shields.io/badge/Open%20Source-Contributor-4F46E5?style=for-the-badge)
+
+<br/>"Location" (https://img.shields.io/badge/Location-Salem%2C%20Tamil%20Nadu%2C%20India-8B5CF6?style=for-the-badge)
+
+<br/><br/>
+
+<a href="https://giridharank.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a><a href="https://linkedin.com/in/giridharan-k1315">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:giridharank790@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://github.com/nextboxis">
+<img src="https://img.shields.io/badge/GitHub-Profile-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
+</a><br/><br/>
+
+https://komarev.com/ghpvc/?username=nextboxis&style=for-the-badge&color=7C3AED
+https://img.shields.io/github/followers/nextboxis?style=for-the-badge&color=6366F1
+https://img.shields.io/github/stars/nextboxis?style=for-the-badge&color=A855F7
+
+</div>---
+
+About Me
+
+Software Engineer with a strong focus on Cybersecurity Engineering, AI/ML Systems, Full Stack Development, and Product Engineering. Passionate about designing secure, scalable, and intelligent software solutions that solve real-world problems.
+
+My work spans across application security, threat intelligence, machine learning-driven security analytics, cloud-native development, and modern web applications. I enjoy building products from concept to deployment while maintaining high standards for performance, reliability, maintainability, and security.
+
+Open To
+
+- Software Engineering Roles
+- Cybersecurity Analyst Roles
+- Application Security Roles
+- AI / ML Engineering Roles
+- Full Stack Development Roles
+- Open Source Collaborations
+- Research & Innovation Projects
 
 ---
-## 5. Featured Projects Section
+
+Tech Stack
+
+Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+</p>Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,javascript" />
+</p>Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,flask,mongodb" />
+</p>Cloud, DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+</p>---
+
+AI / ML Expertise
+
+Domain| Proficiency| Details
+Machine Learning| Advanced| Classification Models, Feature Engineering, Model Evaluation
+Security AI| Advanced| Threat Detection, Risk Prediction, Security Analytics
+Scikit-Learn| Advanced| Random Forest, Data Processing Pipelines
+Threat Intelligence| Advanced| CVE Analysis, MITRE ATT&CK Mapping
+Data Analytics| Intermediate| Security Metrics & Visualization
+Predictive Systems| Intermediate| Risk Scoring & Threat Prioritization
+Cyber AI Research| Intermediate| DGA Detection, Entropy Analysis
+Product AI Integration| Advanced| AI-Powered Security Platforms
+
+---
+
+Featured Projects
+
 <details>
-<summary><b>🚀 NexShield - AI-Driven Cybersecurity Dashboard</b></summary>
-<br>
-### Full-Stack Intelligence Dashboard
-Architected a comprehensive cybersecurity management dashboard that automates continuous network reconnaissance, maps active service signatures, and links discovered exposures directly to actionable matrices.
+<summary><b>NexShield — AI Driven Cybersecurity Dashboard</b></summary>Overview
 
-| Property | Details |
-| :--- | :--- |
-| **Stack** | Python, Flask, MongoDB, scikit-learn, WebSockets |
-| **Scale** | Scanning 28+ sensitive system signatures with automated correlation matrices |
-| **Performance** | Integrated 7-day MongoDB caching to decrease redundant external API lookups by ~80% |
-| **Security** | Implemented stateful token-based authentication along with real-time composite host risk scoring |
-| **Impact** | Automates network exposure tracking while visualizing systemic infrastructure vulnerabilities |
-| **Repository** | [github.com/nextboxis/NexShield](https://github.com/nextboxis/NexShield) |
+Enterprise-grade cybersecurity intelligence platform combining vulnerability assessment, attack surface analysis, threat intelligence, and machine learning powered risk scoring.
 
-#### Deep Technical Overview
-Designed a modular, 9-engine threat analysis pipeline covering deep port risk scoring, distinct version vulnerability matching (including Log4Shell, Heartbleed, and SambaCry), and automated fallback credential checking. Built using a predictive Random Forest Classifier trained on exploit profiles to yield real-time threat grading via low-latency WebSocket push streaming.
-</details>
-<details>
-<summary><b>🌐 DNS Sinkhole - Real-Time DNS Threat Surveillance Platform</b></summary>
-<br>
-### Network Traffic Inception & Analytics Platform
-Engineered a production-ready DNS traffic interception and surveillance platform featuring dual-engine packet parsing layers designed for comprehensive network defense.
+Category| Details
+Stack| Python, Flask, MongoDB, Scikit-Learn, Socket.IO
+Scale| Multi-host vulnerability assessment
+Performance| Optimized CVE caching reducing API calls by ~80%
+Security| MITRE ATT&CK Mapping, Threat Intelligence Integration
+Impact| Accelerated threat identification and prioritization
+Repository| https://github.com/nextboxis/NexShield
 
-| Property | Details |
-| :--- | :--- |
-| **Stack** | Python, Flask, Scapy, TShark, MongoDB, Server-Sent Events (SSE) |
-| **Scale** | Multi-protocol packet parsing across DNS-over-TCP, DoT, DoH, and DoQ |
-| **Performance** | Non-blocking execution loops with an active in-memory buffer fallback mechanism |
-| **Security** | Automated isolation of malicious tunnels and suspicious Top-Level Domains (TLDs) |
-| **Impact** | Live visibility into anomalous outbound enterprise network traffic patterns |
-| **Repository** | [github.com/nextboxis/DNS-Sinkhole](https://github.com/nextboxis/DNS-Sinkhole) |
+Engineering Highlights
 
-#### Deep Technical Overview
-Features dual-engine asynchronous packet capture via Scapy and TShark natively coupled with a specialized mathematical evaluation tier. Incorporates real-time Shannon Entropy metrics to continuously flag active Domain Generation Algorithms (DGA) alongside historical PCAP forensic playback tools and immediate CSV/JSON row exports.
-</details>
----
-## 6. Experience Section
-### Cybersecurity Practitioner (Self-Study)
-**TryHackMe** | *Ongoing*
-* Completed over 40+ structured labs focused directly on network enumeration, active privilege escalation, and open-source intelligence gathering.
-* Ranked in the Global Top 260,000 out of over 3,000,000 platform security practitioners.
-* Maintained secure validation of modern defensive tools including Nmap, Burp Suite, Metasploit, and custom utility infrastructure within isolated labs.
-`Penetration Testing` `Vulnerability Assessment` `Kali Linux` `Burp Suite` `Threat Hunting`
----
-## 7. Achievements Section
-<div align="center">
+- Automated network reconnaissance workflows
+- Vulnerability mapping against known CVEs
+- Machine learning threat severity prediction
+- Real-time security event streaming
+- Exportable security reports
+- Token-based authentication system
+- Composite host risk scoring engine
 
-| Recognition | Details |
-| :--- | :--- |
-| **TryHackMe Badges** | Awarded 8 special technical badges covering platform challenges in network security and defensive operations. |
-| **Global Ranking Achievement** | Secured a top placement within the peak 9% of global practitioners on the TryHackMe ecosystem. |
+</details><details>
+<summary><b>DNS Sinkhole — Real-Time DNS Threat Surveillance Platform</b></summary>Overview
 
-</div>
+Advanced DNS monitoring and cyber threat surveillance platform built for identifying suspicious network activity, DGA domains, DNS tunneling, and malicious communication patterns.
+
+Category| Details
+Stack| Python, Flask, Scapy, TShark, MongoDB
+Scale| Real-time packet analysis pipeline
+Performance| High-speed DNS inspection engine
+Security| DGA Detection, DNS Tunneling Detection
+Impact| Enhanced network visibility and threat response
+Repository| https://github.com/nextboxis/DNS-Sinkhole
+
+Engineering Highlights
+
+- Dual-engine packet capture architecture
+- Shannon entropy based DGA detection
+- DNS-over-HTTPS monitoring
+- DNS-over-TLS monitoring
+- DNS-over-QUIC analysis
+- PCAP forensic replay capability
+- Live threat intelligence dashboard
+
+</details><details>
+<summary><b>Cyber Threat Intelligence Research Lab</b></summary>Overview
+
+Self-directed security research environment focused on vulnerability assessment, incident response simulation, penetration testing, and attack analysis.
+
+Category| Details
+Stack| Kali Linux, Nmap, Burp Suite, Wireshark, Metasploit
+Scale| 40+ Practical Security Labs
+Performance| End-to-end attack simulation workflows
+Security| OWASP Top 10 & MITRE ATT&CK
+Impact| Strong hands-on offensive and defensive expertise
+Repository| Private Learning Portfolio
+
+Engineering Highlights
+
+- Threat hunting workflows
+- Incident response simulations
+- Web application security testing
+- Network reconnaissance
+- Malware investigation
+- Security monitoring techniques
+
+</details>---
+
+Experience
+
+Cybersecurity Practitioner (Self-Study)
+
+TryHackMe
+Present
+
+Professional cybersecurity learning pathway focused on practical offensive and defensive security operations.
+
+Scope of Work
+
+- Completed 40+ hands-on cybersecurity labs
+- Web application security assessments
+- Network reconnaissance and enumeration
+- Privilege escalation exercises
+- Incident investigation scenarios
+- Threat intelligence workflows
+- Security operations fundamentals
+
+Skills
+
+"Nmap" "Burp Suite" "Wireshark" "Metasploit" "Kali Linux" "OWASP" "MITRE ATT&CK"
+
 ---
-## 8. Certifications Section
-### Cisco Networking Academy
-![](https://img.shields.io/badge/Cisco-Linux__Unhatched-007A87?style=flat-square&logo=cisco&logoColor=white) 
-* **Linux Unhatched:** Validated proficiency across fundamental command-line navigation, system file manipulation, and security user-management layers.
-### Tata Consultancy Services (via Forage)
-![](https://img.shields.io/badge/TCS-IAM__Job__Simulation-1B365D?style=flat-square)
-* **Cybersecurity Analyst:** Focused explicitly on fundamental Identity and Access Management (IAM), engineering enterprise IAM Strategies, and configuring complex platform integration rule sets.
-### Telstra (via Forage)
-![](https://img.shields.io/badge/Telstra-Incident__Response-004B87?style=flat-square)
-* **Cybersecurity Simulation:** Executed advanced malware response sequencing, thorough cross-vector attack analysis, containment mitigation, and formal post-mortem incident reporting.
+
+Cybersecurity Analyst Job Simulation
+
+Tata Consultancy Services (Forage)
+January 2026
+
+Scope of Work
+
+- Identity and Access Management
+- Access Governance
+- IAM Strategy Design
+- Platform Integration Concepts
+- Enterprise Security Controls
+
+Skills
+
+"IAM" "Cybersecurity" "Risk Management" "Identity Security"
+
 ---
-## 9. Coding Profiles Section
-<div align="center">
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://github.com/nextboxis)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/nextboxis)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://github.com/nextboxis)
-</div>
+
+Cybersecurity Job Simulation
+
+Telstra (Forage)
+December 2025
+
+Scope of Work
+
+- Malware Investigation
+- Incident Response
+- Attack Analysis
+- Security Mitigation
+- Post-Incident Review
+
+Skills
+
+"Incident Response" "Threat Analysis" "Malware Investigation"
+
 ---
-## 10. GitHub Analytics Section
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nextboxis&show_icons=true&theme=dark&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&border_color=30363D" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextboxis&layout=compact&theme=dark&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&border_color=30363D" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nextboxis&theme=dark&background=0D1117&title=A78BFA&fire=7C3AED&side=C9D1D9&border=30363D" alt="Streak Stats" />
-</div>
+
+Achievements
+
+<div align="center">Recognition| Details
+TryHackMe Global Ranking| Ranked within Global Top 260K
+Security Labs| Completed 40+ Practical Labs
+Achievement Badges| Earned 8 Security Badges
+AI Security Projects| Built Production-Scale Security Platforms
+Open Source Development| Active GitHub Contributor
+Full Stack Engineering| Delivered End-to-End Products
+
+</div>---
+
+Certifications
+
+AWS
+
+"AWS Cloud" (https://img.shields.io/badge/AWS-Cloud%20Learning-FF9900?style=for-the-badge&logo=amazonaws)
+
+Oracle
+
+"Oracle" (https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle)
+
+NPTEL
+
+"NPTEL" (https://img.shields.io/badge/NPTEL-Certifications-4F46E5?style=for-the-badge)
+
+Cisco
+
+"Linux Unhatched" (https://img.shields.io/badge/Cisco-Linux%20Unhatched-1BA0D7?style=for-the-badge&logo=cisco)
+
 ---
-## 11. GitHub Trophies Section
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nextboxis&theme=darkhub&column=7&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
-</div>
+
+Coding Profiles
+
+<div align="center"><a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Competitive%20Programming-FFA116?style=for-the-badge&logo=leetcode"/>
+</a><a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
+</a><a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a><a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Programming-5B4638?style=for-the-badge&logo=codechef"/>
+</a></div>---
+
+GitHub Analytics
+
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=nextboxis&show_icons=true&theme=tokyonight&hide_border=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextboxis&layout=compact&theme=tokyonight&hide_border=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=nextboxis&theme=tokyonight&hide_border=true"/></div>---
+
+GitHub Trophies
+
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=nextboxis&theme=algolia&no-frame=true&row=2&column=4"/></div>---
+
+Contribution Activity
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=nextboxis&theme=react-dark&hide_border=true"/></div>---
+
+Contribution Snake
+
+<div align="center"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/></div>---
+
+Current Focus
+
+learning:
+  - Advanced Application Security
+  - Machine Learning for Cyber Defense
+  - Cloud Security Engineering
+  - Secure Software Architecture
+
+building:
+  - AI Driven Security Platforms
+  - Threat Intelligence Systems
+  - Full Stack SaaS Applications
+  - Open Source Security Tools
+
+exploring:
+  - LLM Security
+  - Autonomous Security Agents
+  - Detection Engineering
+  - Security Automation
+
+open_to:
+  - Software Engineering Roles
+  - AI Engineering Roles
+  - Cybersecurity Roles
+  - Open Source Collaboration
+
 ---
-## 12. Contribution Activity Section
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nextboxis&theme=github-dark-wide&bg_color=0D1117&color=7C3AED&line=A78BFA&point=FFFFFF&area=true&hide_border=false" alt="Contribution Activity Graph" />
-</div>
----
-## 13. Contribution Snake Section
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nextboxis/nextboxis/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</div>
----
-## 14. Current Focus Section
-```yaml
-learning: "Advanced Binary Exploitation & DevSecOps Automated Scanning Architectures"
-building: "NexShield Engine Upgrades & Multi-Protocol Secure Ingestion Pipelines"
-exploring: "Automated Core Threat Hunting Models & Zero-Trust Cloud Architecture"
-openTo: "Enterprise SecOps Opportunities & Open-Source Security Contributions"
+
+Connect
+
+<div align="center"><a href="mailto:giridharank790@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-giridharank790%40gmail.com-A855F7?style=for-the-badge&logo=gmail"/>
+</a><a href="https://linkedin.com/in/giridharan-k1315">
+<img src="https://img.shields.io/badge/LinkedIn-Giridharan%20K-6366F1?style=for-the-badge&logo=linkedin"/>
+</a><a href="https://github.com/nextboxis">
+<img src="https://img.shields.io/badge/GitHub-nextboxis-4F46E5?style=for-the-badge&logo=github"/>
+</a><a href="https://giridharank.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=google-chrome"/>
+</a></div>---
+
+<div align="center">"Engineering secure, intelligent, and scalable systems that create measurable impact."
+
+</div><img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
