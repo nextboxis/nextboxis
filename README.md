@@ -1,8 +1,12 @@
 <div align="center">
-  <h1>Hi there, I'm Giridharan K 👋</h1>
-  <h3>🛡️ Front-End Developer & Cybersecurity Analyst</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Giridharan%20K%20%F0%9F%91%8B&fontSize=45&fontAlignY=38&desc=Building%20secure%20web%20interfaces%20%26%20solving%20complex%20cybersecurity%20challenges&descAlignY=62&descSize=16&animation=twinkling" width="100%" />
   
-  <p><i>Building secure, responsive web interfaces and solving complex cybersecurity challenges.</i></p>
+  <br/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Front-End+Developer;Cybersecurity+Enthusiast;Application+Security+Analyst" alt="Typing SVG" />
+  </a>
+  <br/>
 
   <p align="center">
     <a href="https://linkedin.com/in/giridharan-k1315"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -11,13 +15,12 @@
   </p>
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nextboxis&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nextboxis&label=Profile%20views&color=FF6B6B&style=flat" alt="Profile Views" />
 </div>
 
----
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🕵️‍♂️ Who Am I?
 
@@ -29,7 +32,8 @@ I am a passionate **Front-End Developer** and **Cybersecurity Enthusiast** based
 - 💡 **Core Philosophy:** "Security by design, not as an afterthought."
 - 📫 **How to reach me:** [giridharank790@gmail.com](mailto:giridharank790@gmail.com)
 
----
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🛠️ Technical Arsenal
 
@@ -61,7 +65,8 @@ I am a passionate **Front-End Developer** and **Cybersecurity Enthusiast** based
 - **Threat Analysis:** Threat Intelligence, SOC Analysis, Penetration Testing, IAM / RBAC, DGA Detection.
 - **Machine Learning applied to Security:** `scikit-learn` (RandomForest Classifier), Shannon Entropy analysis.
 
----
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🚀 Highlighted Projects
 
@@ -114,7 +119,8 @@ I am a passionate **Front-End Developer** and **Cybersecurity Enthusiast** based
 
 </details>
 
----
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 💼 Experience & Virtual Simulations
 
@@ -124,7 +130,8 @@ I am a passionate **Front-End Developer** and **Cybersecurity Enthusiast** based
 | **Tata Consultancy Services (via Forage)** | Cybersecurity Analyst Simulation | *Jan 2026* | Analyzed enterprise IAM architecture, recommended RBAC improvements, created SOC-level security assessment reports. |
 | **Telstra (via Forage)** | Cybersecurity Job Simulation | *Dec 2025* | Triaged incidents, performed SIEM log correlation, reconstructed attack timelines, drafted post-incident reports. |
 
----
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🎓 Education & Certifications
 
@@ -132,6 +139,3 @@ I am a passionate **Front-End Developer** and **Cybersecurity Enthusiast** based
 - **Linux Unhatched** | Cisco Networking Academy *(Mar 2026)*
 - **Cybersecurity Analyst Job Simulation** | Tata Consultancy Services *(Jan 2026)*
 - **Cybersecurity Job Simulation** | Telstra *(Dec 2025)*
-
----
-
