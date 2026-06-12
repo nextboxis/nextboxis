@@ -154,11 +154,9 @@ I am a passionate **Front-End Developer** and **Cybersecurity Enthusiast** based
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextboxis&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </div>
 
-<!-- 
 Optional: You can add the snake animation if you set up a GitHub Action!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nextboxis/nextboxis/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nextboxis/nextboxis/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nextboxis/nextboxis/output/github-contribution-grid-snake.svg">
 </picture>
--->
