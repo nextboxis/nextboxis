@@ -16,6 +16,40 @@
 
 </div>
 
+'''''
+### ▓▒░ C L A S S I F I E D _ A R C H I V E ░▒▓
+
+<details>
+<summary><b><kbd>[ INITIATE DECRYPTION ALGORITHM ]</kbd></b></summary>
+<br/>
+<div align="center">
+<details>
+<summary><b><kbd>[ BYPASS NEURAL FIREWALL? ]</kbd></b></summary>
+<br/>
+<details>
+<summary><b><kbd>[ OVERRIDE LEVEL 4 SECURITY CLEARANCE? ]</kbd></b></summary>
+<br/>
+<details>
+<summary><b><kbd>[ INJECTING DGA PAYLOAD... VIEW SOURCE? ]</kbd></b></summary>
+<br/>
+<details>
+<summary><b><kbd>[ ⚠️ WARNING: LETHAL COGNITIVE HAZARD ⚠️ ]</kbd></b></summary>
+<br/>
+<details>
+<summary><b><kbd>[ D O &nbsp; N O T &nbsp; O P E N ]</kbd></b></summary>
+<br/>
+> <i>T h e y &nbsp; a r e &nbsp; w a t c h i n g .</i><br/>
+> <i>W a k e &nbsp; u p &nbsp; G i r i d h a r a n .</i><br/>
+> <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Cursed Void Cat" width="200" /><br/>
+> `[ CONNECTION TERMINATED ]`
+</details>
+</details>
+</details>
+</details>
+</details>
+</div>
+</details>
+
 <br/>
 
 > *"Sanity is just a configuration error."*
@@ -162,14 +196,19 @@ root@anomaly:~# cat /var/log/experience.log
 
 ---
 
-### ▓▒░ A C H I E V E M E N T _ U N L O C K S ░▒▓
+### ▓▒░ C O R R U P T E D _ M E M O R Y _ S E C T O R ░▒▓
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nextboxis&amp;theme=discord&amp;no-frame=true&amp;no-bg=true" alt="Trophies" />
-</div>
+```bash
+> Analyzing Sector 0x4F...
+> Warning: Anomalous Data Fragments Detected. Attempting Rebuild...
 
----
-
+0x00A1F  [████████] 48 65 6c 6c 6f 20 46 72
+0x00A2F  [DATA_LOSS] 69 65 6e 64 2e 20 57 65
+0x00A3F  [REDACTED_] 20 61 72 65 20 77 61 74
+0x00A4F  [W A R N _] 63 68 69 6e 67 2e 00 00
+0x00A5F  [F A T A L] 53 59 53 54 45 4d 20 4f
+0x00A6F  [V O I D _] 56 45 52 52 49 44 45 21
+```
 ### ▓▒░ A U D I O _ L O G ░▒▓
 
 <div align="center">
