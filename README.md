@@ -135,28 +135,3 @@ I am a passionate **Front-End Developer** and **Cybersecurity Enthusiast** based
 
 ---
 
-### 📈 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nextboxis&theme=radium&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nextboxis&show_icons=true&theme=radium&hide_border=true&count_private=true" alt="Giridharan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nextboxis&theme=radium&hide_border=true" alt="Giridharan's GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextboxis&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</div>
-
-Optional: You can add the snake animation if you set up a GitHub Action!
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nextboxis/nextboxis/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nextboxis/nextboxis/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nextboxis/nextboxis/output/github-contribution-grid-snake.svg">
-</picture>
