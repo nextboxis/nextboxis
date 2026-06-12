@@ -1,22 +1,30 @@
+```diff
++   ____ ___ ____ ___ ____  _   _    _    ____      _    _   _   _  __
+-  / ___|_ _|  _ \_ _|  _ \| | | |  / \  |  _ \    / \  | \ | | | |/ /
++ | |  _ | || |_) | || | | | |_| | / _ \ | |_) |  / _ \ |  \| | | ' / 
+- | |_| || ||  _ <| || |_| |  _  |/ ___ \|  _ <  / ___ \| |\  | | . \ 
++  \____|___|_| \_\___|____/|_| |_/_/   \_\_| \_\/_/   \_\_| \_| |_|\_\
+```
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Giridharan%20K%20%F0%9F%91%8B&fontSize=45&fontAlignY=38&desc=Building%20secure%20web%20interfaces%20%26%20solving%20complex%20cybersecurity%20challenges&descAlignY=62&descSize=16&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=250&amp;section=header&amp;text=Hi%20there,%20I'm%20Giridharan%20K%20%F0%9F%91%8B&amp;fontSize=45&amp;fontAlignY=38&amp;desc=Building%20secure%20web%20interfaces%20%26%20solving%20complex%20cybersecurity%20challenges&amp;descAlignY=62&amp;descSize=16&amp;animation=twinkling" width="100%" />
   
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Front-End+Developer;Cybersecurity+Enthusiast;Application+Security+Analyst" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=00F2FE&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Front-End+Developer;Cybersecurity+Enthusiast;Application+Security+Analyst" alt="Typing SVG" />
   </a>
   <br/>
 
   <p align="center">
-    <a href="https://linkedin.com/in/giridharan-k1315"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:giridharank790@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://giridharank.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"/></a>
+    <a href="https://linkedin.com/in/giridharan-k1315"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:giridharank790@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/></a>
+    <a href="https://giridharank.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&amp;logo=firefox&amp;logoColor=#FF7139" alt="Portfolio"/></a>
   </p>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nextboxis&label=Profile%20views&color=FF6B6B&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nextboxis&amp;label=Profile%20views&amp;color=FF6B6B&amp;style=flat" alt="Profile Views" />
 </div>
 
 <br/>
@@ -38,28 +46,28 @@ I am a passionate **Front-End Developer** and **Cybersecurity Enthusiast** based
 ### 🛠️ Technical Arsenal
 
 #### 💻 Frontend Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white)
 
 #### ⚙️ Backend & Database
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=routing&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&amp;logo=flask&amp;logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&amp;logo=routing&amp;logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&amp;logo=socket.io&amp;logoColor=white)
 
 #### 🛡️ Cybersecurity Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kali-linux&amp;logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white)
 `Nmap` `Burp Suite` `Metasploit` `SQLmap` `Scapy` `TShark`
 
 #### ☁️ DevOps & Environment
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&amp;logo=git&amp;logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black)
 
 #### 🧠 Security Concepts & Machine Learning
 - **Threat Analysis:** Threat Intelligence, SOC Analysis, Penetration Testing, IAM / RBAC, DGA Detection.
@@ -139,3 +147,30 @@ I am a passionate **Front-End Developer** and **Cybersecurity Enthusiast** based
 - **Linux Unhatched** | Cisco Networking Academy *(Mar 2026)*
 - **Cybersecurity Analyst Job Simulation** | Tata Consultancy Services *(Jan 2026)*
 - **Cybersecurity Job Simulation** | Telstra *(Dec 2025)*
+
+<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+### 📊 2D & 3D Components
+
+**2D GitHub Activity Graph**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nextboxis&amp;theme=nord&amp;hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</div>
+
+<br/>
+
+**Modern 2D/3D Tech Icons**
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,flask,mongodb,docker,git,linux&amp;perline=11" alt="My Skills" />
+  </a>
+</div>
+
+<!-- 
+Optional: To add a true 3D Isometric Contribution Graph, you need to set up the `yoshi389111/github-profile-3d-contrib` GitHub Action. 
+Once set up, uncomment the image below:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/nextboxis/nextboxis/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
+-->
