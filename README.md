@@ -1,5 +1,6 @@
 <div align="center">
 
+
 # ＥＲＲＯＲ ４０４： ＮＯＲＭＡＬＣＹ ＮＯＴ ＦＯＵＮＤ
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jIGsF2/giphy.gif" width="80%" />
