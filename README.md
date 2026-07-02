@@ -1,47 +1,58 @@
 <div align="center">
 
-# ＥＲＲＯＲ ４０４： ＲＥＡＬＩＴＹ_ＳＹＮＣ_ＦＡＩＬＥＤ
+```text
+       ▄▄▄▄▄▄▄▄▄▄▄
+       █ █▀▀▀▀▀█ █
+   ▄▄▄▄█ █ ▄   ▄ █▄▄▄▄
+   █   █ █▀▀▀▀▀█ █   █
+   ▀▀▀▀█ █ █▀█ █ █▀▀▀▀
+       █ █ █ █ █ █
+       ▀▀▀ ▀ ▀ ▀▀▀
+```
+
+<br/>
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jIGsF2/giphy.gif" width="80%" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=800&size=24&pause=1500&color=FF0000&center=true&vCenter=true&width=600&lines=System+Compromised...;They+think+I'm+an+anomaly.;I+just+see+the+source+code.;I+am+Giridharan+K.;Run+Regression_Mechanics.exe;" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=900&size=22&pause=1200&color=00FF00&center=true&vCenter=true&width=650&lines=CORE_BREACH:+Giridharan+K+is+online.;They+think+I'm+an+anomaly...;I+only+see+the+raw+source+code.;Running+Regression_Mechanics.sh;Loading+Claude+Claw'd+Matrix...;" alt="Terminal System Output" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nextboxis&label=SYSTEM_BREACHES&color=FF0000&style=for-the-badge&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=nextboxis&label=PIXEL_BREACHES&color=00FF00&style=for-the-badge&labelColor=111111" />
 
 </div>
 
-'''''
-### ▓▒░ C L A S S I F I E D _ A R C H I V E ░▒▓
+---
+
+### █▓▒░ P I X E L _ A r c h i v e _ 0x7F ░▒▓█
 
 <details>
-<summary><b><kbd>[ INITIATE DECRYPTION ALGORITHM ]</kbd></b></summary>
+<summary><b><kbd>[ ▞ INITIATE DECRYPTION ROUTINE ]</kbd></b></summary>
 <br/>
 <div align="center">
 <details>
-<summary><b><kbd>[ BYPASS NEURAL FIREWALL? ]</kbd></b></summary>
+<summary><b><kbd>[ ▚ BYPASS NEURAL FIREWALL ]</kbd></b></summary>
 <br/>
 <details>
-<summary><b><kbd>[ OVERRIDE LEVEL 4 SECURITY CLEARANCE? ]</kbd></b></summary>
+<summary><b><kbd>[ ▜ OVERRIDE LEVEL 5 CLEARANCE ]</kbd></b></summary>
 <br/>
 <details>
-<summary><b><kbd>[ INJECTING DGA PAYLOAD... VIEW SOURCE? ]</kbd></b></summary>
+<summary><b><kbd>[ ▟ INJECTING DGA PACKET PAYLOAD ]</kbd></b></summary>
 <br/>
 <details>
-<summary><b><kbd>[ ⚠️ WARNING: LETHAL COGNITIVE HAZARD ⚠️ ]</kbd></b></summary>
+<summary><b><kbd>[ █ WARNING: HIGH SHANNON ENTROPY DETECTED ]</kbd></b></summary>
 <br/>
 <details>
 <summary><b><kbd>[ D O &nbsp; N O T &nbsp; O P E N ]</kbd></b></summary>
 <br/>
-> <i>T̴ h̴ e̴ y̴  a̴ r̴ e̴  w̴ a̴ t̴ c̴ h̴ i̴ n̴ g̴ .</i><br/>
-> <i>W a k e &nbsp; u p &nbsp; G i r i d h a r a n .</i><br/>
-> <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Cursed Void Cat" width="200" /><br/>
-> `[ CONNECTION TERMINATED ]`
+> <code>[!] T̴ h̴ e̴ y̴  a̴ r̴ e̴  m̴ o̴ n̴ i̴ t̴ o̴ r̴ i̴ n̴ g̴  t̴ h̴ e̴  p̴ i̴ p̴ e̴ l̴ i̴ n̴ e̴ .</code><br/>
+> <code>[!] W a k e &nbsp; u p &nbsp; G i r i d h a r a n . . . . . . .</code><br/>
+> <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Cursed Void Cat" width="220" /><br/>
+> `[ !! CRITICAL SECTOR BREAK: CONNECTION TERMINATED !! ]`
 </details>
 </details>
 </details>
@@ -52,149 +63,169 @@
 
 <br/>
 
-> *"Sanity is just a configuration error. Reality is a sandbox."*
+> *"Sanity is just a configuration error. Reality is an isolated Docker container."*
 
 ---
 
-### ▓▒░ B O O T _ S E Q U E N C E _ v9.9.9 ░▒▓
+### █▓▒░ B o o t _ S e q u e n c e _ v8.bit ░▒▓█
 
-```bash
-[ OK ] Loading Kernel Modules...
-[ OK ] Mounting Voxel Subsystems...
-[ OK ] Bypassing macOS UI Sandbox Restrictions...
-[ OK ] Starting Screen Recording Daemon (Policy: Screenshots blocked by root)...
-[ OK ] Initializing Dove.sys Neural Cleanse...
-[WARN] Classification Matrix Failed. Initiating Non-Linear Regression Mechanics...
-[ OK ] Injecting Threat Intelligence Feeds...
-[WARN] Intrusion Detected on Port 443...
-[ OK ] Payload Successfully Deployed. 
-[ OK ] System Compromised. Giridharan K is online.
+```cron
+@reboot /usr/bin/local/anomaly_daemon --pixelate
+[ OK ] Initializing Retro Threat Intelligence Pipeline...
+[ OK ] Mounting Virtualized Custom Voxel Subsystems...
+[ OK ] Loading Font: Classic_Monospace_8bit...
+[ OK ] Starting Screen Recording Engine (Note: Port 443 sniffing active)
+[ OK ] Purging Cache: Executing Dove.sys Deep Neural Cleanse...
+[FAIL] Classification.exe crashed with status 0x001. 
+[WARN] Re-routing logic. Forcing Regression Mechanics Matrix Override...
+[ OK ] Payload Successfully Evaluated. Root console spawned.
 ```
 
 ---
 
-### ▓▒░ D A T A _ D U M P _ 0x01 ░▒▓
+### █▓▒░ C o r r u p t e d _ P i x e l _ T e l e m e t r y ░▒▓█
 
-**[ENTITY]**: GIRIDHARAN K  
-**[CLASS]**: Fresher Entity // Front-End Developer // Cybersecurity Anomaly  
-**[DIRECTIVE]**: Exploit the conventional, secure the unconventional.  
-**[COORDINATES]**: Sankaridrug / Salem Sub-node  
-**[COMM_LINK]**: <a href="mailto:giridharank790@gmail.com"><img src="https://img.shields.io/badge/ENCRYPTED_MAIL-000000?style=flat-square&logo=gmail&logoColor=FF0000"/></a> <a href="https://linkedin.com/in/giridharan-k1315"><img src="https://img.shields.io/badge/NODE_LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=FF0000"/></a>
-
----
-
-### ▓▒░ N E U R A L _ I M P L A N T S ░▒▓
-
-*Weapons of choice. No shiny badges. Just raw capabilities.*
-
-<br/>
-
-**[FRONT_CORTEX]**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="Frontend Skills" />
-</a>
-
-<br/>
-
-**[BACK_CORTEX]**
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,flask,mongodb,docker,git,linux&theme=dark" alt="Backend Skills" />
-</a>
-
-<br/>
-
-**[CYBER_ARSENAL]**
-<br/>
-<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/Scapy-000000?style=for-the-badge&logoColor=FF0000"/>
-
-<br/>
-<br/>
-
-**[MUTATIONS]**: Machine Learning (`scikit-learn`), Regression Mechanics, Shannon Entropy, DGA Detection
-
----
-
-### ▓▒░ Q U A R A N T I N E D _ P A Y L O A D S ░▒▓
-
-<details open>
-<summary><b><kbd>NexShield</kbd></b> <i>[AI Cyber Dashboard]</i> <code>STATUS: CRITICAL</code></summary>
-<br/>
-> <b>[VULN_SCAN_MODULE]:</b> Architected a full-stack dashboard automating network reconnaissance with Nmap (scanning 28+ sensitive service signatures) and mapping vulnerabilities to MITRE ATT&CK techniques.<br/>
-> <b>[THREAT_PIPELINE]:</b> Built a 9-engine threat analysis pipeline covering port risk scoring, version vulnerability matching (Log4Shell, Heartbleed, SambaCry).<br/>
-> <b>[ML_CLASSIFIER]:</b> Trained a RandomForest ML classifier to predict threat severity and integrated NVD CVE API with 7-day MongoDB caching.<br/>
-> <b>[TECH_STACK]:</b> `Python` `Flask` `MongoDB` `scikit-learn` `React`<br/>
-> 🔗 <b><a href="https://github.com/nextboxis/NexShield">Access Source Code</a></b>
-</details>
-
-<details open>
-<summary><b><kbd>DNS_Sinkhole</kbd></b> <i>[Surveillance Engine]</i> <code>STATUS: HIGH_RISK</code></summary>
-<br/>
-> <b>[INTERCEPT_CORE]:</b> Developed a real-time DNS traffic interception platform with dual-engine packet capture.<br/>
-> <b>[DGA_DETECTION]:</b> Engineered a threat intelligence layer detecting DGA domains via Shannon entropy analysis, DNS tunneling patterns, and suspicious TLD identification.<br/>
-> <b>[MULTI_PROTOCOL]:</b> Built multi-protocol detection (DoT, DoH, DoQ) with live Server-Sent Events (SSE) updates and PCAP drag-and-drop forensic replay.<br/>
-> <b>[TECH_STACK]:</b> `Python` `Flask` `Scapy` `TShark` `MongoDB`<br/>
-> 🔗 <b><a href="https://github.com/nextboxis/DNS-Sinkhole">Access Source Code</a></b>
-</details>
-
-<details open>
-<summary><b><kbd>E-hacker</kbd></b> <i>[Neural Tracker]</i> <code>STATUS: MODERATE</code></summary>
-<br/>
-> <b>[UI_MODULE]:</b> Developed a modern, responsive dashboard to track and visualize learning journeys in ethical hacking.<br/>
-> <b>[DATA_TRACKER]:</b> Designed modules to manage wargame progress and seamlessly organize essential cybersecurity resources.<br/>
-> <b>[TECH_STACK]:</b> `HTML5` `CSS3` `JavaScript` `Bootstrap`<br/>
-> 🔗 <b><a href="https://github.com/nextboxis/E-hacker">Access Source Code</a></b>
-</details>
-
-<details open>
-<summary><b><kbd>BlackArch_Custom</kbd></b> <i>[Weaponized OS]</i> <code>STATUS: WEAPONIZED</code></summary>
-<br/>
-> <b>[SYS_ARCH]:</b> Maintained a customized ArchLinux-based distribution tailored specifically for penetration testers and security researchers.<br/>
-> <b>[TOOL_KITS]:</b> Curated an extensive toolkit of offensive security utilities for streamlined ethical hacking workflows.<br/>
-> <b>[TECH_STACK]:</b> `Arch Linux` `Bash` `Offensive Security Tools`<br/>
-> 🔗 <b><a href="https://github.com/nextboxis/blackarch">Access Source Code</a></b>
-</details>
-
----
-
-### ▓▒░ S I M U L A T I O N _ L O G S ░▒▓
-
-```bash
-root@anomaly:~# cat /var/log/experience.log
-
-[+] TryHackMe - Global Rank: 260K [40+ EXPLOIT LABS CLEARED]
-[+] TCS Sim   - IAM Architecture Overhauled, SOC Reports Generated.
-[+] Telstra   - Incident Triaged. Malware Propagation Halted. 
-[+] Kongu     - B.Sc CS Database Injected. 70% Aggregate. 
-[+] Cisco     - Linux Unhatched. Root access achieved.
+```
+ ▗▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▖
+ ▐ ██░░█▀▀█ ██░░█▀▀█ ██░░█▀▀█ [ SYSTEM FAULT: PIXEL RE-INJECTION ]   ▌
+ ▐ ██░░█▄▄█ ██░░█▄▄█ ██░░█▄▄█  SECTOR_STATE: DEGRADED                ▌
+ ▐ ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▌
+   [■] Block_772: UNSTABLE     [■] Grid_Orientation: ALTERED
+   [■] Voxel_Buffer: LEAKING   [■] Voxel_Refresh_Rate: 0.003Hz
 ```
 
 ---
-### ▓▒░ C O R R U P T E D _ M E M O R Y _ S E C T O R ░▒▓
 
-```bash
-> Analyzing Sector 0x4F...
-> Warning: Anomalous Data Fragments Detected. Attempting Rebuild...
-> █▓▒░ S E G M E N T A T I O N   F A U L T ░▒▓█
+### █▓▒░ D a t a _ D u m p _ 0x99 ░▒▓█
 
-0x00A1F  [████████] 48 65 6c 6c 6f 20 46 72
-0x00A2F  [DATA_LOSS] 69 65 6e 64 2e 20 57 65
-0x00A3F  [REDACTED_] 20 61 72 65 20 77 61 74
-0x00A4F  [W A R N _] 63 68 69 6e 67 2e 00 00
-0x00A5F  [F A T A L] 53 59 53 54 45 4d 20 4f
-0x00A6F  [V O I D _] 56 45 52 52 49 44 45 21
-0x00A7F  [G L I T C H] 73 68 61 64 6f 77 73
-```
-### ▓▒░ A U D I O _ L O G ░▒▓
+* ▖ **[ENTITY]** — `GIRIDHARAN K (GIRI)`
+* ▗ **[CLASS]** — `Frontend Stasis Architect // Offensive Cyber Anomaly // Fresher Node`
+* ▘ **[DIRECTIVE]** — `Exploit the secure, disrupt the conventional.`
+* ▝ **[LOCATION COORDS]** — `Sankaridrug, Salem Terminal, TN, India`
+* ▚ **[COMM_LINKS]** — 
+  <a href="mailto:giridharank790@gmail.com"><img src="https://img.shields.io/badge/ENCRYPTED_MAIL-000000?style=flat-square&logo=gmail&logoColor=00FF00"/></a> 
+  <a href="https://linkedin.com/in/giridharan-k1315"><img src="https://img.shields.io/badge/NEURAL_LINK-000000?style=flat-square&logo=linkedin&logoColor=00FF00"/></a>
+
+---
+
+### █▓▒░ N e u r a l _ I m p l a n t s ░▒▓█
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=000000&text_color=FF0000&quote_color=FF0000&author_color=FF0000" alt="Random Dev Quote" />
+
+#### ▞ `[ FRONT_CORTEX: VISUAL RENDERING ENGINES ]` ▚
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="Frontend Vectors" />
+</a>
+
+<br/><br/>
+
+#### ▞ `[ BACK_CORTEX: CORE LOGIC & VIRTUALIZATION ]` ▚
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,flask,mongodb,docker,git,linux&theme=dark" alt="Backend Kernels" />
+</a>
+
+<br/><br/>
+
+#### ▞ `[ OFFENSIVE_ARSENAL: WEAPONIZED BINARIES ]` ▚
+
+<br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=kali,wireshark,regex,bash,powershell,cyberark&theme=dark" alt="Cyber Tactical Arrays" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=00FF00"/> <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logoColor=00FF00"/> <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logoColor=00FF00"/> <img src="https://img.shields.io/badge/Scapy-000000?style=for-the-badge&logoColor=00FF00"/> <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logoColor=00FF00"/> <img src="https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge&logoColor=00FF00"/>
+
+</div>
+
+<br/>
+
+> **[MUTATION PROFILE]**: Full-stack threat processing via `scikit-learn`, Automated Shannon Entropy Scans, Algorithmic DGA Vector Extraction.
+
+---
+
+### █▓▒░ Q u a r a n t i n e d _ P a y l o a d s ░▒▓█
+
+<details open>
+<summary><b><kbd>📁 NexShield</kbd></b> <i>[AI Threat Intelligence Array]</i> <code>STATUS: UNSTABLE</code></summary>
+<br/>
+> `[RECON_CORE]:` Architected an automated full-stack reconnaissance hub driven by custom Nmap probes, indexing 28+ specific system service signatures to MITRE ATT&CK vectors.<br/>
+> `[THREAT_DYNAMICS]:` Integrated a 9-layer deep threat scoring pipeline tracking dynamic port vulnerabilities (Log4Shell, Heartbleed, SambaCry anomalies).<br/>
+> `[REGRESSION_ENGINE]:` Tuned a RandomForest ML core inside <code>scikit-learn</code> to analyze severity data, linking NVD CVE lookups to a 7-day MongoDB caching architecture (minimizing API overhead by ~80%).<br/>
+> `[SYSTEM_STACK]:` `Python` `Flask` `MongoDB` `scikit-learn` `React`<br/>
+> 🔗 <b><a href="https://github.com/nextboxis/NexShield">Exfiltrate Source Code</a></b>
+</details>
+
+<details open>
+<summary><b><kbd>📁 DNS_Sinkhole</kbd></b> <i>[Packet Ingestion Engine]</i> <code>STATUS: ISOLATED</code></summary>
+<br/>
+> `[CAPTURE_FABRIC]:` Deployed a live multi-threaded packet capture engine intercepting raw network telemetry.<br/>
+> `[ALGORITHMIC_SINK]:` Built dynamic mathematical filters inspecting Shannon entropy markers, parsing suspect top-level domain anomalies and tracking covert DGA domains.<br/>
+> `[FORENSICS_NODE]:` Encapsulated multi-protocol deep inspection (DoT, DoH, DoQ) backed by Server-Sent Events (SSE) stream feeds and custom PCAP replay features.<br/>
+> `[SYSTEM_STACK]:` `Python` `Flask` `Scapy` `TShark` `MongoDB`<br/>
+> 🔗 <b><a href="https://github.com/nextboxis/DNS-Sinkhole">Exfiltrate Source Code</a></b>
+</details>
+
+<details open>
+<summary><b><kbd>📁 E-hacker</kbd></b> <i>[Wargame Tracking Hub]</i> <code>STATUS: PASSIVE</code></summary>
+<br/>
+> `[TELEMETRY_UI]:` Responsive system monitoring engine mapping progressive ethical hacking methodologies and tracking tactical exercises.<br/>
+> `[SYSTEM_STACK]:` `HTML5` `CSS3` `JavaScript` `Bootstrap`<br/>
+> 🔗 <b><a href="https://github.com/nextboxis/E-hacker">Exfiltrate Source Code</a></b>
+</details>
+
+<details open>
+<summary><b><kbd>📁 BlackArch_Custom</kbd></b> <i>[Stripped Attack OS Image]</i> <code>STATUS: ARMED</code></summary>
+<br/>
+> `[DISTRO_MOD]:` Customized Arch-based rolling image configured with granular configuration tweaks, optimizing specific cryptographic and defensive automation suites.<br/>
+> `[SYSTEM_STACK]:` `Arch Linux` `Bash` `Offensive Tooling Arrays`<br/>
+> 🔗 <b><a href="https://github.com/nextboxis/blackarch">Exfiltrate Source Code</a></b>
+</details>
+
+---
+
+### █▓▒░ S i m u l a t i o n _ L o g s ░▒▓█
+
+```bash
+kali@anomaly:~$ cat /var/log/experience.log | grep -E "SUCCESS|COMPLETED"
+
+[+] TryHackMe Matrix - Global Rank: 260K [40+ active exploit chambers neutralized]
+[+] TCS Architecture Simulation - Overhauled enterprise Identity Access Management frameworks.
+[+] Telstra Simulation Engine - Triaged polymorphic malware propagation inside test vectors.
+[+] Kongu Nodes - Academic Evaluation Database Synced (70% Aggregate achieved).
+[+] Cisco Academy Systems - Linux Unhatched validation completed; level 0 root terminal unlocked.
+```
+
+---
+
+### █▓▒░ C o r r u p t e d _ M e m o r y _ S e c t o r ░▒▓█
+
+```bash
+> dd if=/dev/mem bs=1k skip=761 count=1 | hexdump -C
+> █▓▒░ S E G M E N T A T I O N _ F A U L T ░▒▓█
+
+0x00C1F  [█_ALIVE] 48 65 6c 6c 6f 20 46 72  |Hello Sys_Anomaly|
+0x00C2F  [█_EMPTY] 69 65 6e 64 2e 20 57 65  |Do not trust standard|
+0x00C3F  [█_LIMIT] 20 61 72 65 20 77 61  |classification models.|
+0x00C4F  [█_PATCH] 63 68 69 6e 67 2e 00 00  |Use regression mechanics.|
+0x00C5F  [█_FATAL] 53 59 53 54 45 4d 20 4f  |System override active.|
+0x00C6F  [█_VOIDS] 56 45 52 52 49 44 45 21  |Catch the packets.|
+```
+
+---
+
+### █▓▒░ A u d i o _ L o g _ S t r e a m ░▒▓█
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=000000&text_color=00FF00&quote_color=FFD700&author_color=00FF00" alt="Dynamic System Quote" />
 </div>
 
 <br/>
@@ -202,7 +233,7 @@ root@anomaly:~# cat /var/log/experience.log
 ### ▓▒░ M A I N F R A M E _ O V E R R I D E ░▒▓
 
 <div align="center">
-  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" alt="Weird Hacker Cat" width="350" />
+  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" alt="Weird Hacker Cat" width="360" />
   <br/>
-  <i>[ SYSTEM OVERRIDE BY FELINE_ENTITY_01 ]</i>
+  <i><code>[CRITICAL: SYSTEM FULLY OVERRIDDEN BY FELINE_ENTITY_01]</code></i>
 </div>
