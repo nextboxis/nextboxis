@@ -1,19 +1,18 @@
 <div align="center">
 
-
-# ＥＲＲＯＲ ４０４： ＮＯＲＭＡＬＣＹ ＮＯＴ ＦＯＵＮＤ
+# ＥＲＲＯＲ ４０４： ＲＥＡＬＩＴＹ_ＳＹＮＣ_ＦＡＩＬＥＤ
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jIGsF2/giphy.gif" width="80%" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&amp;weight=800&amp;size=24&amp;pause=1500&amp;color=FF0000&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=They+think+I'm+weird.;They+think+I'm+different.;I+just+see+the+source+code.;I+am+Giridharan+K." alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&weight=800&size=24&pause=1500&color=FF0000&center=true&vCenter=true&width=600&lines=System+Compromised...;They+think+I'm+an+anomaly.;I+just+see+the+source+code.;I+am+Giridharan+K.;Run+Regression_Mechanics.exe;" alt="Terminal Typing" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nextboxis&amp;label=SYSTEM_BREACHES&amp;color=FF0000&amp;style=for-the-badge&amp;labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=nextboxis&label=SYSTEM_BREACHES&color=FF0000&style=for-the-badge&labelColor=000000" />
 
 </div>
 
@@ -39,7 +38,7 @@
 <details>
 <summary><b><kbd>[ D O &nbsp; N O T &nbsp; O P E N ]</kbd></b></summary>
 <br/>
-> <i>T h e y &nbsp; a r e &nbsp; w a t c h i n g .</i><br/>
+> <i>T̴ h̴ e̴ y̴  a̴ r̴ e̴  w̴ a̴ t̴ c̴ h̴ i̴ n̴ g̴ .</i><br/>
 > <i>W a k e &nbsp; u p &nbsp; G i r i d h a r a n .</i><br/>
 > <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Cursed Void Cat" width="200" /><br/>
 > `[ CONNECTION TERMINATED ]`
@@ -53,20 +52,22 @@
 
 <br/>
 
-> *"Sanity is just a configuration error."*
+> *"Sanity is just a configuration error. Reality is a sandbox."*
 
 ---
 
-### ▓▒░ B O O T _ S E Q U E N C E ░▒▓
+### ▓▒░ B O O T _ S E Q U E N C E _ v9.9.9 ░▒▓
 
 ```bash
 [ OK ] Loading Kernel Modules...
-[ OK ] Mounting Local Filesystems...
-[ OK ] Starting Network Interfaces...
-[ OK ] Initializing Threat Intelligence Feeds...
+[ OK ] Mounting Voxel Subsystems...
+[ OK ] Bypassing macOS UI Sandbox Restrictions...
+[ OK ] Starting Screen Recording Daemon (Policy: Screenshots blocked by root)...
+[ OK ] Initializing Dove.sys Neural Cleanse...
+[WARN] Classification Matrix Failed. Initiating Non-Linear Regression Mechanics...
+[ OK ] Injecting Threat Intelligence Feeds...
 [WARN] Intrusion Detected on Port 443...
-[ OK ] Bypassing Mainframe Firewalls...
-[ OK ] Injecting Payload...
+[ OK ] Payload Successfully Deployed. 
 [ OK ] System Compromised. Giridharan K is online.
 ```
 
@@ -75,10 +76,10 @@
 ### ▓▒░ D A T A _ D U M P _ 0x01 ░▒▓
 
 **[ENTITY]**: GIRIDHARAN K  
-**[CLASS]**: Front-End Developer // Cybersecurity Anomaly  
+**[CLASS]**: Fresher Entity // Front-End Developer // Cybersecurity Anomaly  
 **[DIRECTIVE]**: Exploit the conventional, secure the unconventional.  
-**[COORDINATES]**: Salem, Tamil Nadu  
-**[COMM_LINK]**: <a href="mailto:giridharank790@gmail.com"><img src="https://img.shields.io/badge/ENCRYPTED_MAIL-000000?style=flat-square&amp;logo=gmail&amp;logoColor=FF0000"/></a> <a href="https://linkedin.com/in/giridharan-k1315"><img src="https://img.shields.io/badge/NODE_LINKEDIN-000000?style=flat-square&amp;logo=linkedin&amp;logoColor=FF0000"/></a>
+**[COORDINATES]**: Sankaridrug / Salem Sub-node  
+**[COMM_LINK]**: <a href="mailto:giridharank790@gmail.com"><img src="https://img.shields.io/badge/ENCRYPTED_MAIL-000000?style=flat-square&logo=gmail&logoColor=FF0000"/></a> <a href="https://linkedin.com/in/giridharan-k1315"><img src="https://img.shields.io/badge/NODE_LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=FF0000"/></a>
 
 ---
 
@@ -91,7 +92,7 @@
 **[FRONT_CORTEX]**
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&amp;theme=dark" alt="Frontend Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap&theme=dark" alt="Frontend Skills" />
 </a>
 
 <br/>
@@ -99,24 +100,24 @@
 **[BACK_CORTEX]**
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,flask,mongodb,docker,git,linux&amp;theme=dark" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=python,flask,mongodb,docker,git,linux&theme=dark" alt="Backend Skills" />
 </a>
 
 <br/>
 
 **[CYBER_ARSENAL]**
 <br/>
-<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&amp;logo=kali-linux&amp;logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&amp;logo=wireshark&amp;logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&amp;logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&amp;logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&amp;logoColor=FF0000"/>
-<img src="https://img.shields.io/badge/Scapy-000000?style=for-the-badge&amp;logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kali-linux&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logoColor=FF0000"/>
+<img src="https://img.shields.io/badge/Scapy-000000?style=for-the-badge&logoColor=FF0000"/>
 
 <br/>
 <br/>
 
-**[MUTATIONS]**: Machine Learning (`scikit-learn`), Shannon Entropy, DGA Detection
+**[MUTATIONS]**: Machine Learning (`scikit-learn`), Regression Mechanics, Shannon Entropy, DGA Detection
 
 ---
 
@@ -127,13 +128,13 @@
 <br/>
 > <b>[VULN_SCAN_MODULE]:</b> Architected a full-stack dashboard automating network reconnaissance with Nmap (scanning 28+ sensitive service signatures) and mapping vulnerabilities to MITRE ATT&CK techniques.<br/>
 > <b>[THREAT_PIPELINE]:</b> Built a 9-engine threat analysis pipeline covering port risk scoring, version vulnerability matching (Log4Shell, Heartbleed, SambaCry).<br/>
-> <b>[ML_CLASSIFIER]:</b> Trained a RandomForest ML classifier to predict threat severity and integrated NVD CVE API with 7-day MongoDB caching (reducing API lookups by ~80%).<br/>
+> <b>[ML_CLASSIFIER]:</b> Trained a RandomForest ML classifier to predict threat severity and integrated NVD CVE API with 7-day MongoDB caching.<br/>
 > <b>[TECH_STACK]:</b> `Python` `Flask` `MongoDB` `scikit-learn` `React`<br/>
 > 🔗 <b><a href="https://github.com/nextboxis/NexShield">Access Source Code</a></b>
 </details>
 
 <details open>
-<summary><b><kbd>DNS_Sinkhole</kbd></b> <i>[Surveillance Engine]</i> <code>STATUS: HIGH</code></summary>
+<summary><b><kbd>DNS_Sinkhole</kbd></b> <i>[Surveillance Engine]</i> <code>STATUS: HIGH_RISK</code></summary>
 <br/>
 > <b>[INTERCEPT_CORE]:</b> Developed a real-time DNS traffic interception platform with dual-engine packet capture.<br/>
 > <b>[DGA_DETECTION]:</b> Engineered a threat intelligence layer detecting DGA domains via Shannon entropy analysis, DNS tunneling patterns, and suspicious TLD identification.<br/>
@@ -180,6 +181,7 @@ root@anomaly:~# cat /var/log/experience.log
 ```bash
 > Analyzing Sector 0x4F...
 > Warning: Anomalous Data Fragments Detected. Attempting Rebuild...
+> █▓▒░ S E G M E N T A T I O N   F A U L T ░▒▓█
 
 0x00A1F  [████████] 48 65 6c 6c 6f 20 46 72
 0x00A2F  [DATA_LOSS] 69 65 6e 64 2e 20 57 65
@@ -187,11 +189,12 @@ root@anomaly:~# cat /var/log/experience.log
 0x00A4F  [W A R N _] 63 68 69 6e 67 2e 00 00
 0x00A5F  [F A T A L] 53 59 53 54 45 4d 20 4f
 0x00A6F  [V O I D _] 56 45 52 52 49 44 45 21
+0x00A7F  [G L I T C H] 73 68 61 64 6f 77 73
 ```
 ### ▓▒░ A U D I O _ L O G ░▒▓
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical&amp;bg_color=000000&amp;text_color=FF0000&amp;quote_color=FF0000&amp;author_color=FF0000" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=000000&text_color=FF0000&quote_color=FF0000&author_color=FF0000" alt="Random Dev Quote" />
 </div>
 
 <br/>
