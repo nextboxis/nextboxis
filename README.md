@@ -175,28 +175,6 @@ root@anomaly:~# cat /var/log/experience.log
 ```
 
 ---
-
-### ▓▒░ N E T W O R K _ A N O M A L I E S ░▒▓
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nextboxis&amp;theme=matrix&amp;hide_border=true&amp;bg_color=000000&amp;color=FF0000&amp;line=FF0000&amp;point=000000" alt="Activity Graph" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nextboxis&amp;show_icons=true&amp;hide_border=true&amp;count_private=true&amp;bg_color=000000&amp;title_color=FF0000&amp;text_color=FF0000&amp;icon_color=FF0000" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nextboxis&amp;hide_border=true&amp;background=000000&amp;ring=FF0000&amp;fire=FF0000&amp;currStreakNum=FF0000&amp;sideNums=FF0000&amp;currStreakLabel=FF0000&amp;sideLabels=FF0000&amp;dates=FF0000" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nextboxis&amp;layout=compact&amp;hide_border=true&amp;bg_color=000000&amp;title_color=FF0000&amp;text_color=FF0000" alt="Top Languages" />
-</div>
-
----
-
 ### ▓▒░ C O R R U P T E D _ M E M O R Y _ S E C T O R ░▒▓
 
 ```bash
