@@ -1,15 +1,68 @@
 <div align="center">
 
-```text
-       ▄▄▄▄▄▄▄▄▄▄▄
-       █ █▀▀▀▀▀█ █
-   ▄▄▄▄█ █ ▄   ▄ █▄▄▄▄
-   █   █ █▀▀▀▀▀█ █   █
-   ▀▀▀▀█ █ █▀█ █ █▀▀▀▀
-       █ █ █ █ █ █
-       ▀▀▀ ▀ ▀ ▀▀▀
-```
+#!/usr/bin/env python3
+import time
+import sys
 
+# ANSI Color Codes
+DRAGON_COLOR = '\033[1;32m'   # Bold Green
+MOUNTAIN_COLOR = '\033[1;30m' # Dark Gray
+STAR_COLOR = '\033[1;33m'     # Yellow
+RESET = '\033[0m'
+
+art = r"""       .      * * .        *
+    * * /===-_---~~~~~~~~~------____
+                              .                  |===-~___                _,-'
+           .      -==\\                         `//~\\   ~~~~`---.___.-~~
+              ______-==|       * | |  \\           _-~`
+        __--~~~  ,-/-==\\                        | |   `\        ,'
+     _-~       /'    |  \\                      / /      \      /
+   .'        /       |   \\     .             /' /        \   /'
+  /  ____  /         |    \`\.__/-~~ ~ \ _ _/'  /          \/'
+ /-'~    ~~~~~---__  |      ~-/~         ( )  /'        _--~`
+                   \_|       /        _)   ;  ),   __--~~
+     * '~~--_/      _-~/-  / \   '-~ \
+                    {\__--_/}    / \\_>- )<__\      \
+             .      /'   (_/  _-~  | |__>--<__|      |
+                   |0  0 _/) )-~    | |__>--<__|     |
+                   / /~ ,_/        / /__>---<__/      |
+                  o o _//         /-~_>---<__-~      /     *
+                  (^(~           /~_>---<__-      _-~
+                 ,/|            /__>--<__/     _-~
+              ,//('(          |__>--<__|     /                  .----_
+             ( ( '))          |__>--<__|    |                 /' _---_~\
+          `-)) )) (           |__>--<__|    |               /'  /     ~\`\
+         ,/,'//( (             \__>--<__\    \            /'  //        ||
+       ,( ( ((, ))              ~-__>--<_~-_  ~--____---~' _/'/        /'
+     `~/  )` ) ,/|                  ~-_~>--<_/-__       __-~ _/   .
+   ._-~//( )/ )) ` ___________        ~~-'_/_/ /~~~~~~~__--~
+    ;'( ')/ ,)(  /            `~___~~~~~~~~~~
+   ' ') '( (/   /     ___          `\___
+     '   '  `  /___       ____          `\_______
+             //    ___           ____            `\
+            /          ___               _____     \
+           /____               ____               __\
+                \____                      _____/
+                     \____________________/"""
+
+for index, line in enumerate(art.splitlines()):
+    colored_line = ""
+    for char in line:
+        # Paint the stars
+        if char in ['*', '.']:
+            colored_line += STAR_COLOR + char + RESET
+        # Rough boundary to paint the mountain base
+        elif index >= 25 and char not in [' ', '(', ')', "'", '`', ',']:
+            colored_line += MOUNTAIN_COLOR + char + RESET
+        # Paint the dragon
+        elif char != ' ':
+            colored_line += DRAGON_COLOR + char + RESET
+        else:
+            colored_line += ' '
+            
+    sys.stdout.write(colored_line + "\n")
+    sys.stdout.flush()
+    time.sleep(0.03) # Slight delay for terminal rendering effect
 <br/>
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jIGsF2/giphy.gif" width="80%" />
